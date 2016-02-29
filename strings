@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JosefMessenger</string>
+    //Need to give button a value
+    <string name="send">Send Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="chooser">Send message...</string>
+    <string name="title_activity_receive_message">Receive Message Activity</string>
+</resources>
